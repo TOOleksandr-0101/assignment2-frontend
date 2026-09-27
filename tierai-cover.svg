@@ -1,0 +1,55 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="#070707"/>
+  <rect x="40" y="40" width="1520" height="820" stroke="rgba(255,255,255,0.08)" stroke-width="2"/>
+
+  <g opacity="0.05">
+    <path d="M0 160H1600" stroke="white"/>
+    <path d="M0 320H1600" stroke="white"/>
+    <path d="M0 480H1600" stroke="white"/>
+    <path d="M0 640H1600" stroke="white"/>
+    <path d="M0 800H1600" stroke="white"/>
+    <path d="M220 0V900" stroke="white"/>
+    <path d="M440 0V900" stroke="white"/>
+    <path d="M660 0V900" stroke="white"/>
+    <path d="M880 0V900" stroke="white"/>
+    <path d="M1100 0V900" stroke="white"/>
+    <path d="M1320 0V900" stroke="white"/>
+  </g>
+
+  <rect x="104" y="112" width="220" height="54" fill="rgba(255,255,255,0.92)"/>
+  <path d="M150 138H180V124H194V138H224V152H194V166H180V152H150V138Z" fill="#070707"/>
+
+  <text x="104" y="292" fill="#FF3B30" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="3">TELEGRAM-NATIVE AI WORKSPACE</text>
+  <text x="104" y="406" fill="white" font-family="Inter, Arial, sans-serif" font-size="126" font-weight="800" letter-spacing="-5">tierAI</text>
+  <text x="104" y="470" fill="#9B9B9B" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="500">AI presentation workspace built inside Telegram:</text>
+  <text x="104" y="512" fill="#9B9B9B" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="500">generation, editing, references, and export in one flow.</text>
+
+  <rect x="104" y="596" width="164" height="48" stroke="rgba(255,255,255,0.18)" stroke-width="2"/>
+  <text x="130" y="627" fill="white" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700">AI</text>
+  <rect x="284" y="596" width="248" height="48" stroke="rgba(255,255,255,0.18)" stroke-width="2"/>
+  <text x="312" y="627" fill="white" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700">IN DEVELOPMENT</text>
+
+  <rect x="104" y="694" width="468" height="122" fill="rgba(255,255,255,0.025)" stroke="rgba(255,255,255,0.08)" stroke-width="2"/>
+  <text x="136" y="738" fill="#FF3B30" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="2">CURRENT SCOPE</text>
+  <text x="136" y="786" fill="white" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="600">Bot + Mini App + AI deck workflow</text>
+
+  <rect x="924" y="130" width="548" height="640" fill="rgba(255,255,255,0.03)" stroke="rgba(255,255,255,0.08)" stroke-width="2"/>
+  <rect x="1004" y="214" width="388" height="474" fill="#0C0C0D" stroke="rgba(255,255,255,0.08)" stroke-width="2"/>
+  <rect x="1054" y="270" width="288" height="58" fill="rgba(255,255,255,0.9)"/>
+  <rect x="1054" y="362" width="174" height="16" fill="#FF3B30"/>
+  <rect x="1054" y="398" width="236" height="16" fill="rgba(255,255,255,0.72)"/>
+  <rect x="1054" y="434" width="216" height="16" fill="rgba(255,255,255,0.3)"/>
+
+  <rect x="1054" y="494" width="144" height="144" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.08)" stroke-width="2"/>
+  <rect x="1222" y="494" width="120" height="26" fill="rgba(255,255,255,0.9)"/>
+  <rect x="1222" y="538" width="98" height="16" fill="rgba(255,255,255,0.36)"/>
+  <rect x="1222" y="568" width="82" height="16" fill="rgba(255,255,255,0.28)"/>
+  <rect x="1222" y="606" width="120" height="26" fill="#FF3B30"/>
+
+  <path d="M848 244H1414" stroke="rgba(255,255,255,0.18)" stroke-width="2"/>
+  <text x="1004" y="822" fill="white" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="2">PROMPT -> STRUCTURE -> EDIT -> REFERENCES -> EXPORT</text>
+
+  <rect x="842" y="744" width="278" height="112" fill="rgba(255,59,48,0.08)"/>
+  <text x="874" y="788" fill="rgba(255,255,255,0.7)" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="2">DEMO-READY PATH</text>
+  <text x="874" y="836" fill="white" font-family="Inter, Arial, sans-serif" font-size="32" font-weight="700">Telegram. Editor. Export.</text>
+</svg>
